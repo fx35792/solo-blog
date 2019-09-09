@@ -10,6 +10,10 @@ sunnyfan 的个人博客
 
 ### 最新
 
+* [git 初始化仓库的一些操作](http://blog.sunnyfanfan.com/articles/2019/09/09/1567991886155.html)
+* [GitHub使用技巧](http://blog.sunnyfanfan.com/articles/2019/09/09/1567991707539.html)
+* [git将本地仓库添加到远程仓库](http://blog.sunnyfanfan.com/articles/2019/09/09/1567990323974.html)
+* [git把功能开发错了分支，怎么办？](http://blog.sunnyfanfan.com/articles/2019/09/09/1567990095184.html)
 * [我在 GitHub 上的开源项目](http://blog.sunnyfanfan.com/my-github-repos)
 * [Vue学习总结](http://blog.sunnyfanfan.com/articles/2019/09/07/1567852049394.html)
 * [React学习总结](http://blog.sunnyfanfan.com/articles/2019/09/07/1567826676323.html)
