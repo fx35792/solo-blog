@@ -10,6 +10,8 @@ sunnyfan 的个人博客
 
 ### 最新
 
+* [React--学习链接汇总](http://blog.sunnyfanfan.com/articles/2019/09/10/1568099925752.html)
+* [React--高阶组件](http://blog.sunnyfanfan.com/articles/2019/09/10/1568096646491.html)
 * [React画廊](http://blog.sunnyfanfan.com/articles/2019/09/10/1568080681512.html)
 * [git 初始化仓库的一些操作](http://blog.sunnyfanfan.com/articles/2019/09/09/1567991886155.html)
 * [GitHub使用技巧](http://blog.sunnyfanfan.com/articles/2019/09/09/1567991707539.html)
