@@ -10,6 +10,7 @@ sunnyfan 的个人博客
 
 ### 最新
 
+* [TypeScript学习总结](http://blog.sunnyfanfan.com/articles/2019/09/13/1568387683306.html)
 * [React、Redux、MobX 学习链接汇总](http://blog.sunnyfanfan.com/articles/2019/09/10/1568099925752.html)
 * [React--高阶组件](http://blog.sunnyfanfan.com/articles/2019/09/10/1568096646491.html)
 * [React画廊](http://blog.sunnyfanfan.com/articles/2019/09/10/1568080681512.html)
