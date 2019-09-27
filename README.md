@@ -10,7 +10,7 @@ sunnyfan 的个人博客
 
 ### 最新
 
-* [Element-UI中表格宽度自适应实现](http://blog.sunnyfanfan.com/articles/2019/09/25/1569402104200.html)
+* [Element-UI中表格单元格中多个按钮时不换行](http://blog.sunnyfanfan.com/articles/2019/09/25/1569402104200.html)
 * [Sublime 通过package control安装插件](http://blog.sunnyfanfan.com/articles/2019/09/21/1569043975285.html)
 * [Iterm](http://blog.sunnyfanfan.com/articles/2019/09/16/1568620924416.html)
 * [TypeScript学习总结](http://blog.sunnyfanfan.com/articles/2019/09/13/1568387683306.html)
