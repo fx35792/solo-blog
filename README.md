@@ -10,6 +10,9 @@ sunnyfan 的个人博客
 
 ### 最新
 
+* [WebStorm快捷键](http://blog.sunnyfanfan.com/articles/2019/10/11/1570777506636.html)
+* [VS-CODE学习总结](http://blog.sunnyfanfan.com/articles/2019/10/11/1570777392917.html)
+* [React-富文本编辑器-braft-editor](http://blog.sunnyfanfan.com/articles/2019/10/11/1570775834023.html)
 * [Sublime 通过package control安装插件](http://blog.sunnyfanfan.com/articles/2019/09/21/1569043975285.html)
 * [Iterm](http://blog.sunnyfanfan.com/articles/2019/09/16/1568620924416.html)
 * [TypeScript学习总结](http://blog.sunnyfanfan.com/articles/2019/09/13/1568387683306.html)
