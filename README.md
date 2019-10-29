@@ -10,6 +10,7 @@ sunnyfan 的个人博客
 
 ### 最新
 
+* [数据挖掘](http://blog.sunnyfanfan.com/articles/2019/10/28/1572253799702.html)
 * [WebStorm快捷键](http://blog.sunnyfanfan.com/articles/2019/10/11/1570777506636.html)
 * [VS-CODE学习总结](http://blog.sunnyfanfan.com/articles/2019/10/11/1570777392917.html)
 * [React-富文本编辑器-braft-editor](http://blog.sunnyfanfan.com/articles/2019/10/11/1570775834023.html)
