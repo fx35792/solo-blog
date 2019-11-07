@@ -10,6 +10,7 @@ sunnyfan 的个人博客
 
 ### 最新
 
+* [Mac和Windows设置Chrome浏览器实现跨域访问数据](http://blog.sunnyfanfan.com/articles/2019/11/07/1573088831567.html)
 * [数据挖掘](http://blog.sunnyfanfan.com/articles/2019/10/28/1572253799702.html)
 * [WebStorm快捷键](http://blog.sunnyfanfan.com/articles/2019/10/11/1570777506636.html)
 * [VS-CODE学习总结](http://blog.sunnyfanfan.com/articles/2019/10/11/1570777392917.html)
@@ -29,6 +30,9 @@ sunnyfan 的个人博客
 * [React学习总结](http://blog.sunnyfanfan.com/articles/2019/09/07/1567826676323.html)
 * [Axios学习总结](http://blog.sunnyfanfan.com/articles/2019/09/06/1567763713585.html)
 * [docker的常见命令操作](http://blog.sunnyfanfan.com/articles/2019/09/06/1567739030523.html)
+
+### 热门
+
 * [世界，你好！](http://blog.sunnyfanfan.com/hello)
 
 
